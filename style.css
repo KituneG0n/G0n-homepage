@@ -8,22 +8,11 @@ li {
 }
 
 .header {
-    background-color: cadetblue;
-    height: 90px;
-    border-radius: 50px;
+    height: 150px;
+    width: 500px;
 }
 
 .header-logo {
     color: azure;
     font-size: 60px;
-    padding-left: 15px;
 }
-
-.header-list {
-    float: right;
-}
-
-.header-list li {
-    float: left;
-}
-
