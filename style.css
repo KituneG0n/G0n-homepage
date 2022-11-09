@@ -1,5 +1,7 @@
 h1 {
     color: black;
+    background-color: whitesmoke;
+    .wf-mplus1p { font-family: "M PLUS 1p"; }
 }
 
 h2 {
