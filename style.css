@@ -16,3 +16,13 @@ li {
     color: azure;
     font-size: 60px;
 }
+
+.header-menu {
+  list-style-type: none;
+}
+
+.header-menu li {
+  color: azure;
+  font-size: 30px;
+  
+}
